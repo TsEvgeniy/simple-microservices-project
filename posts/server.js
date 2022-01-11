@@ -3,5 +3,5 @@ const app = require('./app');
 const port = 4000;
 
 app.listen(port, () => {
-  console.log(`POST listening on ${port} port.....`);
+  console.log(`POST listening on ${port} port...`);
 });
